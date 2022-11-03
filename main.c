@@ -2,5 +2,8 @@
 
 int main(void) {
   printf("Ejemplo\n");
+  for(int i = 0; i < 5; i++){
+    printf("hola\n");
+  }
   return 0;
 }
